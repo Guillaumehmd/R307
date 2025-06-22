@@ -1,0 +1,16 @@
+#Build artefacts
+/build
+/bin
+*.o
+*.a
+*.so
+
+#Couverture de code
+*.gcda
+*.gcno
+*.info
+
+#Éditeurs / IDE
+*.swp
+.idea/
+.vscode/
